@@ -28,4 +28,8 @@ So ... for now i use tool.exe from https://github.com/vshymanskyy/w600tool/relea
  
            you can reinstalled firmware micropython with batch from above change file name
            
- official details here https://www.wemos.cc/en/latest/tutorials/w600/get_started_with_micropython_w600.html          
+ official details here https://www.wemos.cc/en/latest/tutorials/w600/get_started_with_micropython_w600.html      
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ and here https://bipes.net.br/aroca/web-serial-terminal/ if want to read from serial port (what send to serial the w600module)
