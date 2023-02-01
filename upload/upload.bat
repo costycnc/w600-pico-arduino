@@ -1,3 +1,3 @@
 echo off
-w600tool.exe --upload sta.ino.gz.img
+w600tool.exe --upload adc_readInputVolt.ino.gz.img
 pause
