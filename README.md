@@ -33,3 +33,5 @@ So ... for now i use tool.exe from https://github.com/vshymanskyy/w600tool/relea
  ----------------------------------------------------------------------------------------------------------------------------
  
  and here https://bipes.net.br/aroca/web-serial-terminal/ if want to read from serial port (what send to serial the w600module)
+ 
+ The default bauds serial of w600 (if is not declared) is 115200 
