@@ -20,7 +20,7 @@ So ... for now i use tool.exe from https://github.com/vshymanskyy/w600tool/relea
          
  In folder upload from above i create a batch file for windows as example  
  
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ >aaaaaaaaaaaaaaaaaaaaaaaa
  
  Here WM_W60X_Firmware Generation Guide V1.2 https://www.winnermicro.com/en/upload/1/editor/1559640549130.pdf 
  
