@@ -24,8 +24,8 @@ So ... for now i use tool.exe from https://github.com/vshymanskyy/w600tool/relea
  
  Here WM_W60X_Firmware Generation Guide V1.2 https://www.winnermicro.com/en/upload/1/editor/1559640549130.pdf 
  
- The w600-pico module https://www.aliexpress.com/item/4000314757449.html have preinstalled micropython http://www.winnermicro.com/upload/1/editor/1568709203932.zip
+ The w600-pico module (see the prie) https://www.aliexpress.com/item/4000314757449.html have preinstalled micropython http://www.winnermicro.com/upload/1/editor/1568709203932.zip
  
-           you can upload firmware micropython with batch from above change file name
+           you can reinstalled firmware micropython with batch from above change file name
            
  official details here https://www.wemos.cc/en/latest/tutorials/w600/get_started_with_micropython_w600.html          
