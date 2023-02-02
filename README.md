@@ -8,7 +8,9 @@ https://wiki.seeedstudio.com/Wio-Lite-W600/
 
 I have arduino ide 2.0.2 and additional board manager http://arduino.winnermicro.com/arduino/package_wmcom_index.json 
 
-Board manager alternative on my site www.costycnc.it https://www.costycnc.it/arduino/package_wmcom_index.json (because i see that some times the original link not working)
+Board manager alternative on my site www.costycnc.it 
+
+                 https://www.costycnc.it/arduino/package_wmcom_index.json (because i see that some times the original link not working)
 
 Also i save https://www.costycnc.it/arduino/w600-arduino-0.2.6.zip and https://www.costycnc.it/arduino/wmtools-0.3.2.zip and insert in                                                       C:\Users\yourpc\AppData\Local\Arduino15\packages  but idont know how make working this
 
