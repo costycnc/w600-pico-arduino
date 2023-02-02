@@ -15,6 +15,10 @@ Board manager alternative on my site www.costycnc.it below (because i see that s
  Same board but at another address              
  
          https://raw.githubusercontent.com/salmanfarisvp/snippet/master/package_wmcom_index.json
+         
+Another board for w600         
+         
+         http://arduino.w600.fun/package_w600_index.json 
                  
 
 Also i save https://www.costycnc.it/arduino/w600-arduino-0.2.6.zip and https://www.costycnc.it/arduino/wmtools-0.3.2.zip and insert in                                                       C:\Users\yourpc\AppData\Local\Arduino15\packages  but idont know how make working this
