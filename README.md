@@ -1,5 +1,11 @@
 # w600-pico-arduino
 
+https://wiki.seeedstudio.com/Wio-Lite-W600/
+
+               https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+               
+-------------------------------------------------------------------------------------------------------------------------------------------------               
+
 I have arduino ide 2.0.2 and additional board manager http://arduino.winnermicro.com/arduino/package_wmcom_index.json 
 
 Board manager alternative on my site www.costycnc.it https://www.costycnc.it/arduino/package_wmcom_index.json (because i see that some times the original link not working)
