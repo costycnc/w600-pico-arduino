@@ -16,6 +16,8 @@ Board manager alternative on my site www.costycnc.it below (because i see that s
  
  todat 04.03.2023 i insert link bellow and seem that working:
  
+ <img src="https://github.com/costycnc/w600-pico-arduino/blob/main/img/install-w600.jpg">
+ 
          https://raw.githubusercontent.com/salmanfarisvp/snippet/master/package_wmcom_index.json
          
          
