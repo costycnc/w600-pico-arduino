@@ -12,9 +12,13 @@ Board manager alternative on my site www.costycnc.it below (because i see that s
 
                  https://www.costycnc.it/arduino/package_wmcom_index.json 
                  
- Same board but at another address              
+ Same board but at another address:
+ 
+ todat 04.03.2023 i insert link bellow and seem that working:
  
          https://raw.githubusercontent.com/salmanfarisvp/snippet/master/package_wmcom_index.json
+         
+         
          
 Another board for w600         
          
