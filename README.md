@@ -14,7 +14,7 @@ Board manager alternative on my site www.costycnc.it below (because i see that s
                  
  Same board but at another address:
  
- today 04.03.2023 i insert link bellow and seem that working:
+ today 04.03.2023 i insert link bellow and seem that working:(if not working see readme of package folder)
  
  <img style="width:50% align:center" src="https://github.com/costycnc/w600-pico-arduino/blob/main/img/install-w600.jpg">
  
