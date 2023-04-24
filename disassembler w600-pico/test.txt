@@ -1,0 +1,87 @@
+
+MsTimer_copy_20230424081433.ino.cpp.o:     file format elf32-littlearm
+
+
+Disassembly of section .text.get_w60x_pin_via_digitalPin:
+
+00000000 <get_w60x_pin_via_digitalPin>:
+   0:	b480      	push	{r7}
+   2:	b085      	sub	sp, #20
+   4:	af00      	add	r7, sp, #0
+   6:	6078      	str	r0, [r7, #4]
+   8:	2340      	movs	r3, #64	; 0x40
+   a:	60fb      	str	r3, [r7, #12]
+   c:	687b      	ldr	r3, [r7, #4]
+   e:	2b11      	cmp	r3, #17
+  10:	d83c      	bhi.n	8c <get_w60x_pin_via_digitalPin+0x8c>
+  12:	a201      	add	r2, pc, #4	; (adr r2, 18 <get_w60x_pin_via_digitalPin+0x18>)
+  14:	f852 f023 	ldr.w	pc, [r2, r3, lsl #2]
+  18:	00000061 	.word	0x00000061
+  1c:	00000065 	.word	0x00000065
+  20:	0000008d 	.word	0x0000008d
+  24:	00000069 	.word	0x00000069
+  28:	0000006d 	.word	0x0000006d
+  2c:	00000071 	.word	0x00000071
+  30:	0000008d 	.word	0x0000008d
+  34:	0000008d 	.word	0x0000008d
+  38:	0000008d 	.word	0x0000008d
+  3c:	0000008d 	.word	0x0000008d
+  40:	00000075 	.word	0x00000075
+  44:	00000079 	.word	0x00000079
+  48:	0000007d 	.word	0x0000007d
+  4c:	00000081 	.word	0x00000081
+  50:	0000008d 	.word	0x0000008d
+  54:	0000008d 	.word	0x0000008d
+  58:	00000085 	.word	0x00000085
+  5c:	00000089 	.word	0x00000089
+  60:	2316      	movs	r3, #22
+  62:	e014      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  64:	2317      	movs	r3, #23
+  66:	e012      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  68:	2301      	movs	r3, #1
+  6a:	e010      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  6c:	2304      	movs	r3, #4
+  6e:	e00e      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  70:	2305      	movs	r3, #5
+  72:	e00c      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  74:	231f      	movs	r3, #31
+  76:	e00a      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  78:	2322      	movs	r3, #34	; 0x22
+  7a:	e008      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  7c:	2321      	movs	r3, #33	; 0x21
+  7e:	e006      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  80:	2320      	movs	r3, #32
+  82:	e004      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  84:	231e      	movs	r3, #30
+  86:	e002      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  88:	231d      	movs	r3, #29
+  8a:	e000      	b.n	8e <get_w60x_pin_via_digitalPin+0x8e>
+  8c:	68fb      	ldr	r3, [r7, #12]
+  8e:	4618      	mov	r0, r3
+  90:	3714      	adds	r7, #20
+  92:	46bd      	mov	sp, r7
+  94:	f85d 7b04 	ldr.w	r7, [sp], #4
+  98:	4770      	bx	lr
+  9a:	bf00      	nop
+
+Disassembly of section .text._Z5setupv:
+
+00000000 <_Z5setupv>:
+   0:	b580      	push	{r7, lr}
+   2:	af00      	add	r7, sp, #0
+   4:	f44f 707a 	mov.w	r0, #1000	; 0x3e8
+   8:	f7ff fffe 	bl	0 <analogWriteFreq>
+   c:	2022      	movs	r0, #34	; 0x22
+   e:	2128      	movs	r1, #40	; 0x28
+  10:	f7ff fffe 	bl	0 <analogWrite>
+  14:	bd80      	pop	{r7, pc}
+  16:	bf00      	nop
+
+Disassembly of section .text._Z4loopv:
+
+00000000 <_Z4loopv>:
+   0:	b480      	push	{r7}
+   2:	af00      	add	r7, sp, #0
+   4:	46bd      	mov	sp, r7
+   6:	f85d 7b04 	ldr.w	r7, [sp], #4
+   a:	4770      	bx	lr
