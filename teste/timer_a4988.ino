@@ -6,7 +6,7 @@ bool stare=TRUE
 void time_test_f(void)
 {
   stare=!stare	
-  digitalWrite(PB_18, !stare);
+  digitalWrite(PB_18, stare);
 }
 
 void setup() {
