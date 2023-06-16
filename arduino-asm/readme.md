@@ -16,4 +16,4 @@ add at end of file :
     rem python3 %WORK_PATH%\w600tool.py -e -u %armgcc_BIN_FILE_PATH:.objcopy.bin=.fls%
     python3 %WORK_PATH%\w600tool.py -u %armgcc_BIN_FILE_PATH:.bin=.img%
   
-need to have python3 installed and add in environment variables
+need to have python3 installed and added in environment variables
