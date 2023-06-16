@@ -15,4 +15,5 @@ add at end of file :
   echo final=====%armgcc_BIN_FILE_PATH%
   rem python3 %WORK_PATH%\w600tool.py -e -u %armgcc_BIN_FILE_PATH:.objcopy.bin=.fls%
   python3 %WORK_PATH%\w600tool.py -u %armgcc_BIN_FILE_PATH:.bin=.img%
+  
 need to have python3 installed and add in environment variables
