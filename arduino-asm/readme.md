@@ -18,4 +18,6 @@ add at end of file :
   
 need to have python3 installed and added in environment variables
 
-Original asm code https://github.com/gmcgarry/w600
+Original asm code from https://github.com/gmcgarry/w600
+
+Folder original-asm-code contain original asm files
